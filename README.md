@@ -20,10 +20,10 @@ Clone o projeto e abra o arquivo HTML
  
 ```
 C:\Users\user>cd Desktop
-C:\Users\Desktop>mkdir rickAndMorty
-C:\Users\user>cd rickAndMorty
+C:\Users\user\Desktop>mkdir rickAndMorty
+C:\Users\user\Desktop>cd rickAndMorty
 git clone https://github.com/fernandesnatalia/RickAndMortyAPI.git
-C:\Users\user>cd RickAndMortyAPI
+C:\Users\user\Desktop\rickAndMorty>cd RickAndMortyAPI
 index.html
 ``` 
 
